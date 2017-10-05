@@ -1,10 +1,5 @@
 #include <math.h>
 #include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <assert.h>
-#include <limits.h>
-#include <stdbool.h>
 
 int main(){
     int a=1,b,c,d,i,r,j,n; 
